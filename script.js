@@ -1,3 +1,6 @@
+java script
+
+
 /**
  * Portfolio Futuristik - JavaScript (Final)
  * ✅ Gabungan asli + perbaikan navbar mobile
